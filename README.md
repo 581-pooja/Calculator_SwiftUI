@@ -38,7 +38,7 @@ A basic Calculator app built using **SwiftUI**. It performs standard arithmetic 
 
 ## 📸 Screenshot
 
-<img src="https://private-user-images.githubusercontent.com/66077775/473865173-6bd4096d-befb-466c-bb8f-0789e621ad33.jpeg" width="300"/>
+<img src="https://github.com/581-pooja/Calculator_SwiftUI/blob/main/CalculatorSwiftui.jpeg?raw=true" width="300"/>
 
 
 ## 🎥 Demo Video
